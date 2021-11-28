@@ -83,7 +83,12 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/levina-lab/video-stream"
+                        "🌐 Source Code", url="https://github.com/SuryaPlayz/Surya-Mods-Music"
+                    )
+                ],
+               [
+                    InlineKeyboardButton(
+                        "Join For Hacks🍀", url=f"https://t.me/SuryaModsYT"
                     )
                 ],
             ]
